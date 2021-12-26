@@ -75,7 +75,7 @@ Flask==2.0.2
 -- Build the docker image
 * docker image build -t miniserver .
 * docker image ls
-* run -p 20221:20221 -d miniserver
+* docker run -p 20221:20221 -d miniserver
 
 -- Stop and prune
 * docker stop "the container id"
