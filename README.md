@@ -7,7 +7,7 @@
     * docker version
     Client Version:    20.10.7
     API version:       1.41
-    Server4 Version:   20.10.7
+    Server Version:   20.10.7
 
     * docker-compose version
     docker-compose version 1.25.0
